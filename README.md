@@ -11,6 +11,6 @@ steps to make this server are:-
 7.echo message back to the client
 8.close the socket
 9.shutdown the winsock
-
+note: use putty software to send the client messages and use the same port as u done to create tcp server and also if any error coming like padding length so just go for raw instead of SSH 
 
 THANK YOU!!
