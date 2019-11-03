@@ -1,4 +1,4 @@
-# TCP-server
+# TCP-server using C++
 its an application which is made using c++  and which echo back the client messages  
 it is basically a tcp server created using c++ 
 steps to make this server are:-
